@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there I am JEEVA VINOD
+Pursuing Computer Science at [VIDYA ACADEMY OF SCIENCE AND TECHNOLOGY](https://www.vidyaacademy.ac.in)<br\>
+Knows my way around Python,SQL,EXCEL,PowerBI<br\>
+[![Jeeva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Je-eva&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Je-eva/Je-eva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
