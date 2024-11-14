@@ -1,5 +1,10 @@
 # Hi, I'm Jeeva Vinod:
-I'm currently pursuing Computer Science at Vidya Academy of Science and Technology, and I am actively seeking career opportunities to showcase and expand my skill set.<br>I am passionate about leveraging my skills in AI, data science, machine learning, and software development to solve real-world problems. I am eager to connect with professionals and organizations who share a similar vision and are interested in creating impactful solutions.<br><br>
+
+
+🎓 **Pursuing Computer Science at Vidya Academy of Science and Technology**  
+🌟 **Open to Career Opportunities in AI, Data Science, and Software Development**
+
+I'm passionate about leveraging AI, data science, machine learning, and software development to create solutions that make a tangible impact on real-world challenges. I’m actively seeking opportunities to showcase and expand my expertise, and I’m eager to connect with like-minded professionals and forward-thinking organizations who share a commitment to innovation and impactful solutions.
 
 
 ## 🌐 Socials:
