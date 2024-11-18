@@ -23,7 +23,8 @@ I'm passionate about leveraging AI, data science, machine learning, and software
 ![Seaborn](https://img.shields.io/badge/Seaborn-%233C8DBC.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFAE1A.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-%23008080.svg?style=for-the-badge&logo=data&logoColor=white)
-
+![VBA](https://img.shields.io/badge/VBA-%23006B3F.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-%23FF5722.svg?style=for-the-badge&logo=automation&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Je-eva&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
