@@ -16,10 +16,10 @@ I'm passionate about leveraging AI, data science, machine learning, and software
 - 📜 **[Data Analysis with Python]** — *Issued by* [IBM SkillsBuild](https://skillsbuild.org)   
   - 🔗 **Certificate**: [View Certificate](https://courses.skillsbuild.skillsnetwork.site/certificates/6efe042c6c564589aa58fdc80d411826)  
 
-- 📜 **[Python 101 for Data Science](#)** — *Issued by* [IBM SkillsBuild](https://skillsbuild.org)
+- 📜 **Python 101 for Data Science** — *Issued by* [IBM SkillsBuild](https://skillsbuild.org)
   - 🔗 **Certificate**: [View Certificate](https://courses.skillsbuild.skillsnetwork.site/certificates/9817970605c74c6caac184a6087bdde2)  
 
-- 📜 **[Data Fundamentals](#)** — *Issued by* [Organization Name](#)  
+- 📜 **Data Fundamentals** — *Issued by* [IBM](https://www.ibm.com/in-en?utm_content=SRCWW&p1=Search&p4=43700057196640827&p5=e&p9=58700006339250496&gad_source=1&gclid=CjwKCAiAjKu6BhAMEiwAx4UsAtLuAd7RXj3XFeo4s4NBi5Y9GnhBIL1YUMwmRyQKg5kKhjwEli_mKRoCERgQAvD_BwE&gclsrc=aw.ds)  
   - 🔗 **Certificate**: [View Certificate](https://www.credly.com/badges/3efbcb28-cefc-4810-8bab-7aca84fa5531/linked_in_profile)
 
 # 💻 Tech Stack:
