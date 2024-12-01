@@ -8,11 +8,18 @@ I'm passionate about leveraging AI, data science, machine learning, and software
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeeva-vinod-7b536a215) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jeevaj3v12) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21332338) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/jeevaj3v12/)
-
+<a href="https://linkedin.com/in/jeeva-vinod-7b536a215">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 30px;">
+</a>
+<a href="https://medium.com/@jeevaj3v12">
+  <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" style="height: 30px;">
+</a>
+<a href="https://stackoverflow.com/users/21332338">
+  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow" style="height: 30px;">
+</a>
+<a href="https://leetcode.com/u/jeevaj3v12/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="LeetCode" style="height: 30px;">
+</a>
 
 
 ## 🏅 Certifications:
